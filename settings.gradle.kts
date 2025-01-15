@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "NUMAD25Sp_FnuAisha"
 include(":app")
+include(":app")
  
