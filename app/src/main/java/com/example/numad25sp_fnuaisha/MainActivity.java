@@ -1,7 +1,6 @@
 package com.example.numad25sp_fnuaisha;
 
 import android.os.Bundle;
-import android.util.Log;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -23,5 +22,4 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    //Changes and Commit options does not show up in NUMAD25 but in the root directory - that is correct yes
 }

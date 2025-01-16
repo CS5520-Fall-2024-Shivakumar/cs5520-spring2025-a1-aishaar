@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NUMAD25Sp_FnuAisha</string>
+    <string name="hi_text">Hello World!</string>
+    <string name="btn1">About Me</string>
 </resources>
