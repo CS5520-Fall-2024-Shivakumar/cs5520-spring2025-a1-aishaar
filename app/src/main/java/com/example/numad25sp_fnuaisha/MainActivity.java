@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button aboutMeButton = findViewById(R.id.aboutMeButton);
         aboutMeButton.setOnClickListener(v -> {
-            Toast.makeText(MainActivity.this, "Name= Fnu Aisha \nEmail = aisha.f@northeastern.edu", Toast.LENGTH_LONG).show();
+            Toast.makeText(MainActivity.this, "Hi, my name is Aisha, and my email is aisha.f@northeastern.edu", Toast.LENGTH_LONG).show();
         } );
 
 
